@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/expresson/static/css/main.eaaae924.chunk.css",
+    "main.js": "/expresson/static/js/main.20657138.chunk.js",
+    "main.js.map": "/expresson/static/js/main.20657138.chunk.js.map",
+    "runtime-main.js": "/expresson/static/js/runtime-main.dd74ca43.js",
+    "runtime-main.js.map": "/expresson/static/js/runtime-main.dd74ca43.js.map",
+    "static/js/2.01cf9373.chunk.js": "/expresson/static/js/2.01cf9373.chunk.js",
+    "static/js/2.01cf9373.chunk.js.map": "/expresson/static/js/2.01cf9373.chunk.js.map",
+    "static/js/3.0e1de20c.chunk.js": "/expresson/static/js/3.0e1de20c.chunk.js",
+    "static/js/3.0e1de20c.chunk.js.map": "/expresson/static/js/3.0e1de20c.chunk.js.map",
+    "index.html": "/expresson/index.html",
+    "static/css/main.eaaae924.chunk.css.map": "/expresson/static/css/main.eaaae924.chunk.css.map",
+    "static/js/2.01cf9373.chunk.js.LICENSE.txt": "/expresson/static/js/2.01cf9373.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/expresson/static/media/logo.6ce24c58.svg",
+    "static/media/slide4.c76ff86b.png": "/expresson/static/media/slide4.c76ff86b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd74ca43.js",
+    "static/js/2.01cf9373.chunk.js",
+    "static/css/main.eaaae924.chunk.css",
+    "static/js/main.20657138.chunk.js"
+  ]
+}
