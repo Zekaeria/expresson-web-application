@@ -1,3 +1,7 @@
+# Introduction
+A web application for Hacks for Humanity Hackathon.
+Tools: React, Node.js, Bootstrap, JavaScript, CSS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
