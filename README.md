@@ -1,5 +1,5 @@
 # Introduction
-A web application for Hacks for Humanity Hackathon.
+A web application for Hacks for Humanity Hackathon.\
 Tools: React, Node.js, Bootstrap, JavaScript, CSS.
 
 # Getting Started with Create React App
